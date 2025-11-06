@@ -12,8 +12,6 @@
 #include <string>
 #include <vector>
 
-#include <boost/asio/steady_timer.hpp>
-
 #include <auto_reservation.h>
 #include <auto_reservation_log.h>
 
